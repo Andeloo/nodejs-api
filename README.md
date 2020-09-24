@@ -10,7 +10,9 @@ Instructions for running the server:
 3) Run Post to insert data.
 
 APIs:
+
 GET: http://localhost:3000/api/reports/workload
+
 SAMPLE OUTPUT : 
 ```
 {
@@ -37,6 +39,7 @@ SAMPLE OUTPUT :
 ```
 
 POST: http://localhost:3000/api/register
+
 SAMPLE INPUT : 
 ```
 {
@@ -72,8 +75,13 @@ Exposed Port:
 
 Libraries needed:
 a. Framework: ExpressJS
+
 b. ORM: Sequelize
+
 c. Database: MySql 8.0
+
 d. Logger: WinstonJS
+
 e. Test Runner: Jest
+
 f. Docker
