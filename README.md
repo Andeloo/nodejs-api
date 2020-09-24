@@ -10,6 +10,9 @@ Instructions for running the server:
 3) npm start
 4) Run Post to insert data.
 
+Additional Steps : 
+to clear docker container on desktop ```docker rm -f $(docker ps -a -q)```
+
 APIs:
 
 GET: http://localhost:3000/api/reports/workload
