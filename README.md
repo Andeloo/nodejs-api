@@ -5,9 +5,10 @@ NodeJS version : v13.9.0
 NPM version: 6.13.7
 
 Instructions for running the server:
-1) npm install
-2) npm start
-3) Run Post to insert data.
+1) switch on Docker
+2) npm install
+3) npm start
+4) Run Post to insert data.
 
 APIs:
 
